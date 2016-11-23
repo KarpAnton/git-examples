@@ -1,5 +1,6 @@
-print("Hello World");
-print("Hello my friends);
-print("Hello everybody");
+<<<<<<< HEAD
+print("Hello World;");
+print("Hello my friends;);
+print("Hello everybody;");
 print("Hello Anton);
 print("I'm student");
